@@ -1,0 +1,1 @@
+#Commands are executed when world is loaded or on /reload
