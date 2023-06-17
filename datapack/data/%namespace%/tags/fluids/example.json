@@ -1,0 +1,7 @@
+{
+  "values": [
+    "minecraft:empty",
+    "#minecraft:water",
+    "#minecraft:lava"
+  ]
+}
